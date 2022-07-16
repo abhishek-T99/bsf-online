@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bsf-online/static/css/main.f0f4467f.css",
+    "main.js": "/bsf-online/static/js/main.ad7f706b.js",
+    "static/media/alish.jpg": "/bsf-online/static/media/alish.b14574ff2b0993175303.jpg",
+    "static/media/bg.jpg": "/bsf-online/static/media/bg.027f8626fa1adb2129e3.jpg",
+    "static/media/child-1.jpg": "/bsf-online/static/media/child-1.c757ea0c139adaabeab1.jpg",
+    "static/media/child 2.jpg": "/bsf-online/static/media/child 2.af01f5907de6ce3e6d8f.jpg",
+    "static/media/portfolio-1.jpg": "/bsf-online/static/media/portfolio-1.6dd6354d36a291099ee7.jpg",
+    "static/media/susmita.jpg": "/bsf-online/static/media/susmita.4f5f557d8db010be3f96.jpg",
+    "static/media/about.jpg": "/bsf-online/static/media/about.411d0cc7d0f4c212d02d.jpg",
+    "static/media/portfolio-4.jpg": "/bsf-online/static/media/portfolio-4.2d8bf5e6d107d1355320.jpg",
+    "static/media/portfolio-2.jpg": "/bsf-online/static/media/portfolio-2.7581ecc62ee35f3f74f4.jpg",
+    "static/media/blog-03.jpg": "/bsf-online/static/media/blog-03.1bced0df5ad80f8eeb76.jpg",
+    "static/media/about-9.jpg": "/bsf-online/static/media/about-9.24eb96f8e6097d2556e9.jpg",
+    "static/media/blog-01.jpg": "/bsf-online/static/media/blog-01.67ebb920a48800aa0294.jpg",
+    "static/media/portfolio-3.jpg": "/bsf-online/static/media/portfolio-3.e1d203d20eb86c807af6.jpg",
+    "static/media/blog-02.jpg": "/bsf-online/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/bsf-online/index.html",
+    "main.f0f4467f.css.map": "/bsf-online/static/css/main.f0f4467f.css.map",
+    "main.ad7f706b.js.map": "/bsf-online/static/js/main.ad7f706b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f4467f.css",
+    "static/js/main.ad7f706b.js"
+  ]
+}
